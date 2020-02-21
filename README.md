@@ -1,2 +1,2 @@
 # Motion_of_particle_in_vincinity_of_blackhole
-Project for second year module which maps the motion of a particle in the vincinity of isolated non-spinning spherically symmetric black hole
+Project for second year module which maps the motion of a particle in the vincinity of isolated non-spinning spherically symmetric black hole, this is not to be used by anyone else under any circumstance and is for only a showcase of my work. If you would like to use this project in any way, email me and I will consider it. The math behind this project is available on request. 
